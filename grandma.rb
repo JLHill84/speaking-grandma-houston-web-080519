@@ -14,5 +14,6 @@
 def speak_to_grandma(arg)
   if arg != arg.upcase
     return "Huh?! SPEAK UP, SONNY!"
+  end
   
 end
