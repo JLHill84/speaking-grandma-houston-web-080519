@@ -16,4 +16,7 @@ def speak_to_grandma(arg)
     return "HUH?! SPEAK UP, SONNY!"
   end
   
+  if arg == "I LOVE YOU GRANDMA!"
+    return "I LOVE YOU TOO PUMPKIN!"
+  
 end
