@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 def speak_to_grandma(arg)
   if arg != arg.upcase
-    return "Huh?! SPEAK UP, SONNY!"
+    return "HUH?! SPEAK UP, SONNY!"
   end
   
 end
