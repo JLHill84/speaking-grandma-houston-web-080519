@@ -16,11 +16,11 @@ def speak_to_grandma(arg)
     return "HUH?! SPEAK UP, SONNY!"
   end
   
-  if arg = arg.upcase
+  if arg == arg.upcase
     return "NO, NOT SINCE 1938!"
   end
   
-  if arg = "I LOVE YOU GRANDMA!"
+  if arg == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
   end
   
