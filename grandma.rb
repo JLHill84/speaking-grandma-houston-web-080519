@@ -20,7 +20,7 @@ def speak_to_grandma(arg)
     return "NO, NOT SINCE 1938!"
   end
   
-  if arg == "I LOVE YOU GRANDMA!"
+  if arg = "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
   end
   
